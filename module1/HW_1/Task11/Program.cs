@@ -11,7 +11,7 @@ namespace Task11
             string c = Console.ReadLine();
             Console.WriteLine("-" + a + "-");
             Console.WriteLine("-" + b + "-");
-            Console.WriteLine("-" + c + "-");
+            Console.WriteLine("-" + c + "-"); 
         }
     }
 }
