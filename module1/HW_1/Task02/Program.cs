@@ -16,7 +16,6 @@ namespace Task02
             Console.WriteLine("xx             xx        xx             xx          xx         xx          xx    xx       xx        xx   xxx                 xx             xx        xx             xx");
             Console.WriteLine("xx             xx        xx             xx        xxxxxxxxxxxxxxxxx        xx    xx       xx        xx     xxx               xx             xx        xx             xx");
             Console.WriteLine("xx             xx         xxxxxxxxxxxxxxx         xx             xx        xx     xxxxxxxxx         xx       xxx              xxxxxxxxxxxxxxx         xxxxxxxxxxxxxxxx");
-
         }
     }
 }
