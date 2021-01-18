@@ -15,7 +15,7 @@ namespace Task4
 
         public string Position()
         {  // сообщить координаты
-            return String.Format("The Robot position: x={0}, y={1}", x, y);
+            return String.Format("The Robot position: x={0}, y={1}", x, y); 
         }
     }
     delegate void Steps();
