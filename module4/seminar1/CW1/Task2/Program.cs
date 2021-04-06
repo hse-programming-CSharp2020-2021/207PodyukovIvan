@@ -36,7 +36,7 @@ namespace Task2
         public Dept() { }
         public Dept(string name, Human[] staffList)
         {
-            this.DeptName = name;
+            DeptName = name;
             Staff = new List<Human>(staffList);
         }
         public override string ToString()
