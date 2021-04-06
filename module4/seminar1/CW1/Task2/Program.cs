@@ -12,7 +12,7 @@ namespace Task2
         public Human() { }
         public Human(string name)
         {
-            Name = name;
+            this.Name = name;
         }
         public override string ToString()
         {
